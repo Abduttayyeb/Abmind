@@ -4,6 +4,5 @@ if char>="A" and char<="Z":
 elif char>="a" and char<="z":
     print(char,"Is An Alphabet Of Lowercase")
 else:
-    print(char,"Is a Number")
-    
+    print(char,"Is a Num")
  
